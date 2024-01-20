@@ -24,7 +24,7 @@ const Contact = () => {
                     {/* 1 */}
                     <div className=" p-4 border border-[#ABB2BF]">
                         <h2 className=' text-white font-medium pb-2'>Support me here</h2>
-                        <span className='text-[#ABB2BF]'>4149500120690030</span>
+                        <span className='text-[#ABB2BF]'>7829673740</span>
                     </div>
                     {/* 2 */}
                     <div className=" p-4 border border-[#ABB2BF]">
