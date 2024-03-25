@@ -14,14 +14,16 @@ const Complete_apps = () => {
             // get img from img folder
             img: first,
             langs: ["html", "css", "javascript", "react", "tailwind css"],
-            title: "ChertNodes",
-            disc: "Minecraft servers hosting ",
+            title: "Food Delevery",
+            disc: "Food Delevery DashboardPanel  ",
+            link:"www.google.com"
         },
         {
             img: second,
             langs: ["html", "css", "javascript", "Node.js"],
             title: "ProtectX",
             disc: "Discord anti-crash bot ",
+            link:"www.facebook.com"
         },
         {
             img: third,
@@ -71,7 +73,7 @@ const Complete_apps = () => {
                     {/* projects */}
                     <div className="flex flex-wrap justify-start  gap-4 my-12">
                         {/* cards */}
-                        {projects.map(({ img, langs, title, disc }) => {
+                        {projects.map(({ img, langs, title, disc,link }) => {
                             return (
                                 <>
                                     <Project_card
@@ -79,6 +81,7 @@ const Complete_apps = () => {
                                         langs={langs}
                                         title={title}
                                         disc={disc}
+                                        link={link}
                                     />
                                 </>
                             );
