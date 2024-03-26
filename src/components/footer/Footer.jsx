@@ -13,14 +13,14 @@ const Footer = () => {
               {/* logo */}
               <div className=" flex gap-2 items-center text-2xl text-white font-bold">
                 <img src={require("./imgs/Logo.png")} alt="" />
-                <span>Elias</span>
+                <span>Rizz</span>
               </div>
               {/* email */}
-              <span className="text-[#ABB2BF]">elias@elias.ml</span>
+              <span className="text-[#ABB2BF]">syedrizwank271@gmail.com</span>
             </div>
             {/* disc */}
             <div className="text-[#ffffff]">
-              <p>Web designer and front-end developer based in Ukraine</p>
+              <p>Web designer and front-end developer based in India</p>
             </div>
           </div>
           {/* right */}
@@ -29,13 +29,13 @@ const Footer = () => {
             <h2 className=" text-white text-2xl font-medium mb-3">Media</h2>
             {/* media */}
             <div className="flex items-center gap-2">
-              <a href="#">
+              <a href="https://vercel.com/userisrizzs-projects">
                 <img src={require("./imgs/Discord.png")} alt="" />
               </a>
-              <a href="#">
+              <a href="https://www.linkedin.com/in/syed-rizwan-sadiq/">
                 <img src={require("./imgs/Figma.png")} alt="" />
               </a>
-              <a href="#">
+              <a href="https://github.com/userisRizz">
                 <img src={require("./imgs/Github.png")} alt="" />
               </a>
             </div>
@@ -43,7 +43,7 @@ const Footer = () => {
         </div>
         {/* bottom */}
         <div className="text-center text-[#ABB2BF] pb-8 mt-12">
-          © Copyright 2022. Made by Elias
+          © Copyright 2024. Made by Rizwan.
         </div>
       </div>
     </>

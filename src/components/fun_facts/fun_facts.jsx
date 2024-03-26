@@ -6,31 +6,31 @@ const Fun_facts = () => {
             {/* title */}
             <div className=" mb-12 text-[32px] font-medium text-white">
                 <span className='text-[#C778DD]'>#</span>
-                my-fun-facts
+                my-achievements
             </div>
             <div className="flex justify-center gap-y-10 md:justify-between gap-4 items-center flex-wrap">
                 {/* left */}
                 <div className=" flex justify-start gap-4 w-full md:w-[48%] flex-wrap">
                     <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        I like winter more than summer
+                    Launch a Standout Portfolio Website:
                     </div>
                     <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        I often bike with my friends
+                    Master Core Front-End Technologies:
                     </div>
                     <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        I was in Egypt, Poland and Turkey
+                    Contribute Actively to Open Source:
                     </div>
                     <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        I’m still studing in school
+                    Design Seamless Responsive Interfaces:
                     </div>
                     <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        I’m still studing in school
+                    Excel in Competitive Coding Challenges:
                     </div>
                     <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        My favorite movie is The Green Mile
+                        My favorite movie is The Green Mile:
                     </div>
                     <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        I don’t have any siblings
+                    Completing Online Courses:
                     </div>
                 </div>
                 {/* right */}
