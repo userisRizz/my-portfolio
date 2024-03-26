@@ -17,10 +17,11 @@ const AboutSec = () => {
             </div>
             {/* disc */}
             <p className="text-[#ABB2BF] ">
-              Hello, i’m Elias!
+              Hello, i’m  <span style={{fontWeight: 'bold', color: 'white'}}>Syed Rizwan!</span>
+
               <br />
               <br />
-              I’m a self-taught front-end developer based in Kyiv, Ukraine. I
+              I’m a self-taught front-end developer based in Bangaluru, India. I
               can develop responsive websites from scratch and raise them into
               modern user-friendly web experiences.
               <br />
