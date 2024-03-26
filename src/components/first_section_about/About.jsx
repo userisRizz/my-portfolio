@@ -20,7 +20,7 @@ const About = () => {
           <div className="">
           <img 
     src={require("./imgs/man.png")} 
-    style={{height: '500px', width: '492px'}} 
+    style={{height: '450px', width: '490px'}} 
     alt="" 
 />
 
