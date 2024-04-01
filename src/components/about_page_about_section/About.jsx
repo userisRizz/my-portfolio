@@ -20,8 +20,7 @@ const About = () => {
                 <div className="md:w-[48%] w-full">
                     {/* disc */}
                     <p className="text-[#ABB2BF] ">
-                        Hello, i’m <spam className="" style="background-color: white;">Syed Rizwan!</spam>
-
+                        Hello, i’m <spam className="" style="background-color: white">Syed Rizwan!</spam>
                         <br />
                         <br />
                         I’m a self-taught front-end developer based in Banglore, India. I
